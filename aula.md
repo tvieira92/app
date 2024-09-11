@@ -28,8 +28,27 @@
 
  Strings (textos): "" '' `` podem ser escritas dentro desses sinais
  Number: 2, 1.4
- Function
+ Boolean
 
 ## Operadores
 
-    Operadores de atribuição de valor
+    Operadores de atribuição de valor =
+    Operador de concatenação +
+
+## Estruturas de dados:
+
+### Arrays:
+
+    Uma lista que contém qualquer tipo de dado
+
+### Objetos:
+
+    Atributos e métodos
+    Criação e manipulação de objetos
+    Acesso a propriedades de objetos
+
+### Function
+
+ - criar, passar argumento
+ - executar
+ - arrow function / named function

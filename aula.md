@@ -5,7 +5,7 @@
 
 ## Peças de uma linguagem
 
- - [x}Comentários
+ - Comentários
  - Declaração de variáveis (const, let)
  - Operadores (atribuição, concatenação, matemáticos, lógicos)
  - Tipos de dados (string, number, boolean)
@@ -32,8 +32,9 @@
 
 ## Operadores
 
-    Operadores de atribuição de valor =
-    Operador de concatenação +
+    [x] Operadores de atribuição de valor =
+    [x] Operador de concatenação +
+    [x] Operadores de comparação: == (igual) != (diferente) > (maior) < (menor) <= (menor igual) => (maior igual)
 
 ## Estruturas de dados:
 
@@ -59,6 +60,7 @@
 # Condicionais
 
  - [x] switch
+ - [x] if/else
 
 ## Módulos em Node .js
 

@@ -49,13 +49,22 @@
 
 ### Function
 
- - criar, passar argumento
- - executar
- - arrow function / named function
+ - [x] criar, passar argumento
+ - [x] executar
+ - [x] arrow function / named function
 
 # Estrutura de repetição
- - while
+ - [x] while
 
 # Condicionais
 
- - [] switch
+ - [x] switch
+
+## Módulos em Node .js
+
+ - [x] Importação de módulos (require, CommonJS)
+ - [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promises:
+
+ - [x] Uso de funções assíncronas (async/await)

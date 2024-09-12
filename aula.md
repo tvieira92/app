@@ -55,3 +55,7 @@
 
 # Estrutura de repetição
  - while
+
+# Condicionais
+
+ - [] switch

@@ -42,7 +42,7 @@
 ### Arrays:
 
     [x] Uma lista que contém qualquer tipo de dado
-    [x] Métodos de Array: push, [find, forEach, filter] : HOF(higher order functions)
+    [x] Métodos de Array: push, [find, forEach, filter, map] : HOF (higher order functions)
 
 ### Objetos:
 
